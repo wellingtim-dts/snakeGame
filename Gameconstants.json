@@ -1,0 +1,14 @@
+public final class Gameconstants {
+
+    private Gameconstantsa{
+     public static final String GAME_TIRLE = "Snake Game"
+    
+    public static final int TILE = 24; //formato de telha
+    
+public static final int COLS = 20; //colunas
+public static final int rows =20; //linhas
+
+public static final int WIDTH = TILE * COLS;
+public static final int HEIGHT = TILE * ROWS,
+}
+}
